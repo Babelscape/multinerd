@@ -63,15 +63,11 @@ We remark that the datasets are automatically created, and, therefore, they may 
 
 
 # License 
-WikiNEuRal is licensed under the CC BY-SA-NC 4.0 license. The text of the license can be found [here](https://github.com/Babelscape/wikineural/blob/master/LICENSE).
+MultiNERD is licensed under the CC BY-SA-NC 4.0 license. The text of the license can be found [here](./LICENSE).
 
-We underline that the source from which the raw sentences have been extracted is Wikipedia ([wikipedia.org](https://www.wikipedia.org/)) and the NER annotations have been produced by [Babelscape](https://babelscape.com/).
+We underline that the source from which the raw sentences have been extracted are Wikipedia ([wikipedia.org](https://www.wikipedia.org/)) and Wikinews [wikinews.org](https://www.wikinews.org/) and the NER annotations have been produced by [Babelscape](https://babelscape.com/).
 
 <br>
 
 # Acknowledgments
 We gratefully acknowledge the support of the **ERC Consolidator Grant MOUSSE No. 726487** under the European Union’s Horizon2020 research and innovation programme ([http://mousse-project.org/](http://mousse-project.org/)).
-
-This work was also supported by the **PerLIR project** (Personal Linguistic resources in Information Retrieval) funded by the MIUR Progetti di ricerca di Rilevante Interesse Nazionale programme (PRIN2017).
-
-The code in this repository is built on top of [![](https://shields.io/badge/-nn--template-emerald?style=flat&logo=github&labelColor=gray)](https://github.com/lucmos/nn-template).
