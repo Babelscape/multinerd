@@ -1,16 +1,21 @@
 # MultiNERD
 
-Data and evaluation code for the paper [MultiNERD: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)](https://www.researchgate.net/publication/361795554_MultiNERD_A_Multilingual_Multi-Genre_and_Fine-Grained_Dataset_for_Named_Entity_Recognition_and_Disambiguation).
+Data and evaluation code for the paper [MultiNERD: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)](https://aclanthology.org/2022.findings-naacl.60/).
 
 ```bibtex
-@inproceedings{tedeschi-etal-2022-multinerd,
-    title = "MultiNERD: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)",
-    author = "Tedeschi, Simone and Navigli, Roberto",
+@inproceedings{tedeschi-navigli-2022-multinerd,
+    title = "{M}ulti{NERD}: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)",
+    author = "Tedeschi, Simone  and
+      Navigli, Roberto",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2022",
     month = jul,
     year = "2022",
-    address = "Seattle, Washington",
+    address = "Seattle, United States",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-naacl.60",
+    doi = "10.18653/v1/2022.findings-naacl.60",
+    pages = "801--812",
+    abstract = "Named Entity Recognition (NER) is the task of identifying named entities in texts and classifying them through specific semantic categories, a process which is crucial for a wide range of NLP applications. Current datasets for NER focus mainly on coarse-grained entity types, tend to consider a single textual genre and to cover a narrow set of languages, thus limiting the general applicability of NER systems.In this work, we design a new methodology for automatically producing NER annotations, and address the aforementioned limitations by introducing a novel dataset that covers 10 languages, 15 NER categories and 2 textual genres.We also introduce a manually-annotated test set, and extensively evaluate the quality of our novel dataset on both this new test set and standard benchmarks for NER.In addition, in our dataset, we include: i) disambiguation information to enable the development of multilingual entity linking systems, and ii) image URLs to encourage the creation of multimodal systems.We release our dataset at https://github.com/Babelscape/multinerd.",
 }
 ```
 
@@ -45,7 +50,6 @@ Finally, MultiNERD shows consistent improvements of up to **against state-of-the
 | [MultiNERD FR](./data/multinerd_fr.tsv) | 176.2K | 4.3M | 89.6K | 28.2K | 90.9K | 11.4K | 0.1K | 2.3K | 3.1K | 7.4K | 3.2K | 0.7K | 8.0K | 2.0K | 4.4K | 27.4K | 0.6K | 3.8M |
 | [MultiNERD PL](./data/multinerd_pl.tsv) | 195.0K | 3.0M | 66.5K | 29.2K | 100.0K | 19.7K | 0.1K | 3.3K | 6.5K | 6.7K | 3.3K | 0.6K | 4.9K | 1.3K | 6.6K | 44.1K | 0.7K | 2.5M |
 | [MultiNERD PT](./data/multinerd_pt.tsv) | 177.6K | 3.9M | 54.0K | 13.2K | 124.8K | 14.7K | 0.1K | 4.2K | 6.8K | 5.9K | 5.4K | 0.6K | 9.1K | 1.6K | 9.2K | 48.6K | 0.3K | 3.4M |
-| [MultiNERD ZH](./data/multinerd_zh.tsv) | 115.0K | 2.4M | 47.7K | 22.2K | 70.4K | 6.9K | 0.1K | 1.4K | 2.2K | 2.5K | 2.9K | 0.5K | 6.9K | 0.7K | 5.2K | 27.4K | 0.4K | 2.1M |
 
 
 We remark that the datasets are automatically created, and, therefore, they may contain errors. 
