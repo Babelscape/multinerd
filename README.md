@@ -1,6 +1,6 @@
 # MultiNERD 🤓
 
-[![Paper](https://img.shields.io/badge/Proc-EMNLP--Proceedings-red)](https://aclanthology.org/2022.findings-naacl.60/)
+[![Paper](https://img.shields.io/badge/Proc-NAACL--Proceedings-red)](https://aclanthology.org/2022.findings-naacl.60/)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MultiNERD-blue)](https://huggingface.co/datasets/Babelscape/multinerd)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
