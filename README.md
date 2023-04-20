@@ -50,7 +50,7 @@ Finally, MultiNERD shows consistent improvements of up to **against state-of-the
 | [MultiNERD FR](./data/fr) | 176.2K | 4.3M | 89.6K | 28.2K | 90.9K | 11.4K | 0.1K | 2.3K | 3.1K | 7.4K | 3.2K | 0.7K | 8.0K | 2.0K | 4.4K | 27.4K | 0.6K | 3.8M |
 | [MultiNERD PL](./data/pl) | 195.0K | 3.0M | 66.5K | 29.2K | 100.0K | 19.7K | 0.1K | 3.3K | 6.5K | 6.7K | 3.3K | 0.6K | 4.9K | 1.3K | 6.6K | 44.1K | 0.7K | 2.5M |
 | [MultiNERD PT](./data/pt) | 177.6K | 3.9M | 54.0K | 13.2K | 124.8K | 14.7K | 0.1K | 4.2K | 6.8K | 5.9K | 5.4K | 0.6K | 9.1K | 1.6K | 9.2K | 48.6K | 0.3K | 3.4M |
-| [MultiNERD ZH](./data/zh) | 195.3K | 3.9M | 68.3K | 20.8K | 49.6K | 26.1K | 0.4K | 0.8K | 0.1K | 5.1K | 1.9K | 1.1K | 55.9K | 1.8K | 6.1K | 0.4K | 0.3K | 3.4M |
+| [MultiNERD ZH](./data/zh) | 195.3K | 5.8M | 68.3K | 20.8K | 49.6K | 26.1K | 0.4K | 0.8K | 0.1K | 5.1K | 1.9K | 1.1K | 55.9K | 1.8K | 6.1K | 0.4K | 0.3K | 3.4M |
 
 
 We remark that the datasets are automatically created, and, therefore, they may contain errors. Specifically, the highest-quality classes (in terms of both precision and number of the annotations, according to Table 3 and Figure 1 in the [paper](https://aclanthology.org/2022.findings-naacl.60/)) are PER, ORG, LOC, CEL, DIS, EVE and MEDIA, while others can be often very noisy due to the ambiguity of their instances.
