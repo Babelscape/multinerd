@@ -1,6 +1,6 @@
 ## News
- - **2023-08**: A [Multilingual and Fine-Grained NER model](https://huggingface.co/tomaarsen/span-marker-mbert-base-multinerd) trained on MultiNERD is now available on HuggingFace Models!
- - **2023-04**: Our [MultiNERD dataset](https://huggingface.co/datasets/Babelscape/multinerd) is available on HuggingFace Datasets!
+ - **2023-08**: A [Multilingual and Fine-Grained NER model](https://huggingface.co/tomaarsen/span-marker-mbert-base-multinerd) trained on MultiNERD is now available on HF Models!
+ - **2023-04**: Our [MultiNERD dataset](https://huggingface.co/datasets/Babelscape/multinerd) is available on HF Datasets!
  - **2022-07**: The [MultiNERD](https://aclanthology.org/2022.findings-naacl.60/) paper is out!
    
  <div align="center">    
@@ -68,7 +68,7 @@ Finally, MultiNERD shows consistent improvements of up to **against state-of-the
 | [MultiNERD ZH](https://drive.google.com/drive/folders/1wI9ngtA_FK9H4vPWApEmHUZUAG0Tyb_Z?usp=share_link) | 195.3K | 5.8M | 68.3K | 20.8K | 49.6K | 26.1K | 0.4K | 0.8K | 0.1K | 5.1K | 1.9K | 1.1K | 55.9K | 1.8K | 6.1K | 0.4K | 0.3K | 3.4M |
 
 
-We remark that the datasets are automatically created, and, therefore, they may contain errors. Specifically, the highest-quality classes (in terms of both precision and number of the annotations, according to Table 3 and Figure 1 in the [paper](https://aclanthology.org/2022.findings-naacl.60/)) are PER, ORG, LOC, CEL, DIS, EVE and MEDIA, while others can be often very noisy due to the ambiguity of their instances.
+We remark that the datasets are automatically created, and, therefore, they may contain errors. Specifically, the highest-quality classes (in terms of both precision and number of the annotations, according to Table 3 and Figure 1 in the [paper](https://aclanthology.org/2022.findings-naacl.60/) are PER, ORG, LOC, CEL, DIS, EVE and MEDIA, while others can be often very noisy due to the ambiguity of their instances.
 
 <br>
 
