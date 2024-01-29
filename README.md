@@ -1,3 +1,8 @@
+## News
+ - **2023-08**: A [Multilingual and Fine-Grained NER model](https://huggingface.co/tomaarsen/span-marker-mbert-base-multinerd) trained on MultiNERD is now available on HuggingFace Models!
+ - **2023-04**: Our [MultiNERD dataset](https://huggingface.co/datasets/Babelscape/multinerd) is available on HuggingFace Datasets!
+ - **2022-07**: The [MultiNERD](https://aclanthology.org/2022.findings-naacl.60/) paper is out!
+   
  <div align="center">    
 
 ![logo](img/multinerd_logo.png)
