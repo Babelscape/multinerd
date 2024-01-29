@@ -1,8 +1,14 @@
-# MultiNERD 🤓
+ <div align="center">    
+
+![logo](img/multinerd_logo.png)
 
 [![Paper](https://img.shields.io/badge/Proc-NAACL--Proceedings-red)](https://aclanthology.org/2022.findings-naacl.60/)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MultiNERD-blue)](https://huggingface.co/datasets/Babelscape/multinerd)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+</div> 
+
+--------------------------------------------------------------------------------
 
 Data and evaluation code for the paper [MultiNERD: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)](https://aclanthology.org/2022.findings-naacl.60/).
 
