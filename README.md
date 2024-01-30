@@ -5,7 +5,7 @@
    
  <div align="center">    
 
-![logo](img/multinerd_logo.png)
+![logo](img/multinerd_logo_2.png)
 
 [![Paper](https://img.shields.io/badge/Proc-NAACL--Proceedings-red)](https://aclanthology.org/2022.findings-naacl.60/)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MultiNERD-blue)](https://huggingface.co/datasets/Babelscape/multinerd)
